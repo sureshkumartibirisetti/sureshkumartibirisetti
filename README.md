@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 ## My Skills 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,python,linux,aws,git,github,vscode,java&perline=18)](https://skillicons.dev)
+</br>
+
+
+## Watch Snake eating  Github contributions
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
