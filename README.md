@@ -24,20 +24,20 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 -  👨‍💻 All Of My Projects Are Available At **[My Projects](https://github.com/sureshkumartibirisetti?tab=repositories)**
--  ♕ I’m Currently Studying Web Development, Data Base ,cloud. </br>
+-  ♕ I’m currently studying web development, Databases, and the cloud. </br>
 -  🏹 I’m always looking forward to contributing to open source.
 -  📫 How to reach me tibirisettisureshkumar@gmail.com
 
 
-
-
-
-
-
+  </hr>
+  </hr>
+  </br>
 
 ## My Skills 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,python,linux,aws,git,github,vscode,java&perline=18)](https://skillicons.dev)
+</hr>
+</hr>
 </br>
 
 
