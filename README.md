@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi There 👋
+<h1 align="center">SURESH KUMAR TIBIRISETTI</h1>
+</br>
+
+## Summary :
+>  Motivated software developer with expertise in Java. Strong foundation in Data Structures, Algorithms, and Object-oriented programming. Skilled in web development and familiar with cloud technologies and database management. Committed to writing clean, efficient code and passionate about problem-solving. Eager to contribute to innovative software projects and collaborate in a dynamic team environment. 
+</br>
+
 
 <!--
 **sureshkumartibirisetti/sureshkumartibirisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +24,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 -  👨‍💻 All Of My Projects Are Available At **[My Projects](https://github.com/sureshkumartibirisetti?tab=repositories)**
--  ♕ I’m Currently Studying Web development,Data Base,cloud. </br>
--  🏹 I’m always looking forward to contribute to open source.
+-  ♕ I’m Currently Studying Web Development, Data Base ,cloud. </br>
+-  🏹 I’m always looking forward to contributing to open source.
 -  📫 How to reach me tibirisettisureshkumar@gmail.com
 
 
