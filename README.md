@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 -  ♕ I’m currently studying web development, Databases, and the cloud. </br>
 -  🏹 I’m always looking forward to contributing to open source.
 -  📫 How to reach me tibirisettisureshkumar@gmail.com
+-  ⭐verify my Badges are Avaiable At **[Credly](credly.com/users/suresh-kumar-tibirisetti)**
 
 
   </hr>
@@ -43,3 +44,10 @@ Here are some ideas to get you started:
 
 ## Watch Snake eating  Github contributions
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+
+  </br> 
+  <h1 align="center">🙈 &ensp;🙉 &ensp;🙊</h1>
+  
+
+
