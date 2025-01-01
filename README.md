@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## My Skills 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,python,linux,aws,git,github,vscode,java&perline=18)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,python,linux,aws,git,github,vscode,java&perline=18)
 </hr>
 </hr>
 </br>
