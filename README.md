@@ -41,8 +41,16 @@ Here are some ideas to get you started:
 </hr>
 </br>
 
+## Coding Profiles👇 
+-  ✅ I have Solved 150+ problems on **[LeetCode](https://leetcode.com/u/20MH1A04I2/)**
+-  ✅ I have Solved 150+ problems on **[GeekForGeeks](https://www.geeksforgeeks.org/user/tibirisettisyraq/?ref=header_profile)**. 
+-  ✅ I achieved a 5-star rank in both Java and Python on **[HackerRank](https://www.hackerrank.com/dashboard)**.
+-  ✅ I have Solved 500+ problems on **[CodeChef](https://www.codechef.com/users/suresh_4i2)**
+</hr>
+</hr>
+</br>
 
-## Watch Snake eating  Github contributions
+## Watch Snake eating  Github contributions🐍
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 
