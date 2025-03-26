@@ -1,5 +1,12 @@
 ## Hi There 👋
 <h1 align="center">SURESH KUMAR TIBIRISETTI</h1>
+<p align="center">
+  🌐 <b><a href="http://tinyurl.com/tibirisetti" target="_blank" >PortFolio</a></b> • 
+  🔗 <b><a href="https://www.linkedin.com/in/suresh-kumar-tibirisetti-35629620b/" target="_blank">LinkedIn</a></b> • 
+  📧 <b><a href="mailto:tibirisettisureshkumar@gmail.com">Email</a></b> • 
+  📱 <b>+91 9347929628</b>
+</p>
+
 </br>
 
 ## 🌱Summary :
