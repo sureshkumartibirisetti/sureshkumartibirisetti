@@ -62,8 +62,14 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 
-</br>
-![GitHub Streak](https://streak-stats.demolab.com?user=sureshkumartibirisetti&theme=dark)
+## GitHub streak 🔥
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sureshkumartibirisetti&theme=dark" alt="GitHub Streak" />
+</p>
+
+
+
+
 
 
 
