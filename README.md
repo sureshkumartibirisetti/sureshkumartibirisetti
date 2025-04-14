@@ -58,14 +58,14 @@ Here are some ideas to get you started:
 </hr>
 </br>
 
-## Watch Snake eating  Github contributions🐍
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-
-## GitHub streak 🔥
+## GitHub status 🔥
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sureshkumartibirisetti&theme=dark" alt="GitHub Streak" />
 </p>
+
+
+## Watch Snake eating  Github contributions🐍
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 
 
