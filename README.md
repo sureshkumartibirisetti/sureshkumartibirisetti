@@ -60,8 +60,10 @@ Here are some ideas to get you started:
 
 ## GitHub status 🔥
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sureshkumartibirisetti&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=sureshkumartibirisetti&theme=dark" alt="GitHub Streak" />
 </p>
+
+
 
 
 ## Watch Snake eating  Github contributions🐍
