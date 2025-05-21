@@ -15,7 +15,6 @@
 >  Motivated software developer with expertise in Java. Strong foundation in Data Structures, Algorithms, and Object-oriented programming. Skilled in web development and familiar with cloud technologies and database management. Committed to writing clean, efficient code and passionate about problem-solving. Eager to contribute to innovative software projects and collaborate in a dynamic team environment. 
 </br>
 
-
 <!--
 **sureshkumartibirisetti/sureshkumartibirisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
