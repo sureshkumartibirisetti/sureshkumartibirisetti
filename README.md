@@ -75,6 +75,13 @@
 - ✅ 500+ problems solved on [CodeChef](https://www.codechef.com/users/suresh_4i2)
 
 ---
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sureshkumartibirisetti&color=brightgreen" alt="Profile views" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
